@@ -1,2 +1,2 @@
-# Juffry-s-Python
-kumpulan kode python gan :)
+# Juffry-Python
+kumpulan kode python gue nih gan :)
